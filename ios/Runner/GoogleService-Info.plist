@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309416746937-n9vaci8923nl56ci6mtmk3pqeoo55esn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309416746937-n9vaci8923nl56ci6mtmk3pqeoo55esn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVSo-FC3JvYwtb_9vddzatzcXdcwkCH7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309416746937</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fastChat</string>
+	<key>PROJECT_ID</key>
+	<string>fast-chat-b7482</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fast-chat-b7482.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309416746937:ios:fba6361c8ef945cbcca068</string>
+</dict>
+</plist>
